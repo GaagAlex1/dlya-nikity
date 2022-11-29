@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab5.Form1">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AWAAIAAAEiAAALgAACDAQFRDFEQ4AIADEHUQQAEAACE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5.ArrayChanging">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAEAAAICAAAAAAAAAABAAAIQAAAQAAAEAAAA=</HashCode>
+      <FileName>MethodArr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5.MtxChanging">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAEAAhACAAICAAQAAEAAAAAAIAAQAEARAAAEAAAA=</HashCode>
+      <FileName>MethodMtx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5.RiggedMtxChanging">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgADACAAAAACAAAAAAAEAAAAgQAGAQgAAEAAAA=</HashCode>
+      <FileName>MethodRiggedMtx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
